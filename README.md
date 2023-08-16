@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @BLVCHO
 - 👀 I’m interested in web and software design
 - 🌱 I’m currently learning coding basics in HTML,CSS,PHP,Laravel,JAVASCRIPT,Nord Js,Python,React
-- 💞️ I’m looking to collaborate on projects that willa dd on my knowledge and experience in Coding
+- 💞️ I’m looking to collaborate on projects that willa add on my knowledge and experience in Coding
 - 📫 How to reach me:Email:gerald803nandwa@gmail.com
 
 <!---
