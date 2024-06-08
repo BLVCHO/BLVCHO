@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @GNANDWA
-- 👀 I’m interested in software and design and development 
+- 👀 I’m interested in software design and development 
 - 🌱 I’m currently learning coding basics in HTML,CSS,JAVASCRIPT,PYTHON,SQL,MONGODB & DART WITH FLUTTER
 - 💞️ I’m looking to collaborate on projects that will add on my knowledge and experience in Coding
 - 📫 How to reach me:Email:gerald803nandwa@gmail.com
